@@ -16,7 +16,7 @@ Id 916840384339013703 </h1>
 IF YOU WANT ADD MORE COOMNDS JOIN SUPPORT SERVER 😁 </h3>
  </a> </div>
 
-**[SUPPORT SERVER](https://discord.gg/RXnU7Zpwnm)**||
+**[SUPPORT SERVER](https://discord.gg/RXnU7Zpwnm)**
 
 
-### copyright ©️ 2021 kasra-kh:
+### copyright ©️ 2021 kasra-kh
