@@ -18,5 +18,12 @@ IF YOU WANT ADD MORE COOMNDS JOIN SUPPORT SERVER 😁 </h3>
 
 **[SUPPORT SERVER](https://discord.gg/RXnU7Zpwnm)**
 
+### Welcome :)
+![Picture](https://media.discordapp.net/attachments/956215898891489280/956227180503908382/unknown.png)
 
+### Welcome Log
+![Picture](https://media.discordapp.net/attachments/956215898891489280/956227139127115816/unknown.png)
+
+### Help Bot 
+![Picture](https://media.discordapp.net/attachments/956215898891489280/956226800223129611/unknown.png)
 ### copyright ©️ 2021 kasra-kh
