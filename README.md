@@ -1,6 +1,6 @@
 <h1 align='center'>A moderation bot made using discord.py</h1> 
-
-
+ <img src="https://cdn.discordapp.com/emojis/897728221813047327.webp?size=96&quality=lossless" alt="Logo" width="120" height="120">
+  </a>
 <h3 align='center'> STAR ⭐ THE PROJECT IF U LIKE :) </h3>
 
  <h3 align='center'> Categories 📑 </h3>
