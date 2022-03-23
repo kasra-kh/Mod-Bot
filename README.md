@@ -1,6 +1,4 @@
-<h1 align='center'>A moderation bot made using discord.py 
- Made by tag: ! 001ᴿᶻ#0001
-Id 916840384339013703 </h1> 
+<h1 align='center'>A moderation bot made using discord.py</h1> 
 
 
 <h3 align='center'> STAR ⭐ THE PROJECT IF U LIKE :) </h3>
